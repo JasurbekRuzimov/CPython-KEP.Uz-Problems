@@ -1,4 +1,4 @@
-package cpython;
+package cpython.asoslar;
 
 import static java.lang.Math.pow;
 

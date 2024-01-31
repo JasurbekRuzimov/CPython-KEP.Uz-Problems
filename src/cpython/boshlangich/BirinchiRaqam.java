@@ -18,7 +18,3 @@ public class BirinchiRaqam {
   }
 
 }
-// ikkita list int tipida, va random son berish kerak, va ikkita listni birlashtirish kerak, va birlashtirilgan listni sort qilish kerak
-// 1. Listni birlashtirish
-// 2. Listni sort qilish
-// 3. Listni chiqarish
