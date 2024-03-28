@@ -1,4 +1,4 @@
-package cpython;
+package cpython.boshlangich;
 //Shunday 4 xonali son toping, uni birinchi raqami ikkinchi raqamidan 3 marta kichik, uchinchi raqami birinchi va ikkinchi raqamlar yig'indisiga teng va to'rtinchi raqam ikkinchi raqamdan 3 marta katta.
 public class TortXonaliSonniTopish2 {
 

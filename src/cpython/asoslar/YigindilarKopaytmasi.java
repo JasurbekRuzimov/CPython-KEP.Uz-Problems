@@ -1,4 +1,4 @@
-package cpython;
+package cpython.asoslar;
 
 import java.util.Scanner;
 

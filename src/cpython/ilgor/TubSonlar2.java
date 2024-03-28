@@ -1,9 +1,9 @@
-package cpython;
+package cpython.ilgor;
 
 import java.util.Scanner;
 
 //Sizga n soni berilgan. [1;n] oralig'ida bo'lgan sonlar orasida barcha tub sonlarni ekranga chiqaring.
-public class TubSonlar {
+public class TubSonlar2 {
 
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);

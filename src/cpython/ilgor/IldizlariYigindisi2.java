@@ -1,4 +1,4 @@
-package cpython.asoslar;
+package cpython.ilgor;
 
 import static java.lang.Math.pow;
 
@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 
 
-public class IldizlariYigindisi {
+public class IldizlariYigindisi2 {
 
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);

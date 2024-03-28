@@ -1,4 +1,4 @@
-package cpython;
+package cpython.work;
 
 import java.util.ArrayList;
 import java.util.List;

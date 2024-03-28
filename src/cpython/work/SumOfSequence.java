@@ -1,4 +1,4 @@
-package cpython;
+package cpython.work;
 // k ta birinchi hadning yig'indisini Java tilida topish
 import java.util.Scanner;
 public class SumOfSequence {

@@ -1,4 +1,4 @@
-package cpython;
+package cpython.boshlangich;
 
 import java.util.Scanner;
 

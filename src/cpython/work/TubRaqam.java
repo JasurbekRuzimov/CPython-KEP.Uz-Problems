@@ -1,4 +1,4 @@
-package cpython;
+package cpython.work;
 
 public class TubRaqam {
 

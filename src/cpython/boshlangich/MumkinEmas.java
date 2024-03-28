@@ -1,4 +1,4 @@
-package cpython;
+package cpython.boshlangich;
 
 public class MumkinEmas {
 

@@ -1,4 +1,4 @@
-package cpython;
+package cpython.work;
 
 import java.util.PriorityQueue;
 import java.util.Scanner;
