@@ -51,5 +51,7 @@ public class Main12 {
 
     // Scanner'ni yopish
     scanner.close();
+
   }
 }
+
