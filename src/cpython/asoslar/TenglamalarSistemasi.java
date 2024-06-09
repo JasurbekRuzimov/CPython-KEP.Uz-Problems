@@ -1,2 +1,2 @@
-package cpython.asoslar;public class TenglamalarSistemasi {
+package cpython.asoslar;public class TenglamalarSistemeasi {
 }
