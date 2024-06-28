@@ -2,7 +2,7 @@ package algo;
 
 import java.util.Scanner;
 
-public class matritsa3 {
+public class Matritsa3 {
     public static void main(String[] args) {
       Scanner scanner = new Scanner(System.in);
 
