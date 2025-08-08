@@ -5,6 +5,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main12 {
+
   public static int maximizeParticipation(int[] akaUkalars, int R) {
     Arrays.sort(akaUkalars);
     int totalParticipations = 0;
