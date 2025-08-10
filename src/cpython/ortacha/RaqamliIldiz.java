@@ -1,22 +1,20 @@
 package cpython.ortacha;
-
 import java.util.Scanner;
 
-class RaqamliIldiz {
+public class RaqamliIldiz {
   public static void main(String[] args) {
-    Scanner scanner = new Scanner(System.in);
-    int a = scanner.nextInt();
-    if (a < 0) {
-      return;
+    Scanner sc = new Scanner(System.in);
+    String n = sc.next();
+    sc.close();
+
+    while (n.length() > 1) {
+      int sum = 0;
+      for (char c : n.toCharArray()) {
+        sum += c - '0';
+      }
+      n = String.valueOf(sum);
     }
-    int b = 0;
-    while (a > 0) {
-      b += a % 10;
-      a = a / 10;
-    }
-    while (b >= 10) {
-      b = b / 10 + b % 10;
-    }
-    System.out.println(b);
+
+    System.out.println(n);
   }
 }
