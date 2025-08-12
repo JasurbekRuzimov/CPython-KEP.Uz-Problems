@@ -19,6 +19,3 @@ public class Masala5 {
     System.out.println(text);
   }
 }
-
-
-Massivlar ustida amallar xato akan
